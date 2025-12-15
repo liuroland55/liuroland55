@@ -142,7 +142,7 @@ A sophisticated crosshair overlay tool for gaming and precision applications
 
 ### 🌟 Featured Mods
 
-**[Modern Warfare III Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3230884359)**
+**[Barotrauma Talentenhancement plus](https://steamcommunity.com/sharedfiles/filedetails/?id=3230884359)**
 <br>
 📊 **Author Stats:**
 <br>
@@ -150,7 +150,7 @@ A sophisticated crosshair overlay tool for gaming and precision applications
 
 <br><br>
 
-**[Advanced Warfare Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3236710433)**
+**[[Barotrauma TE+(Rebalanced)](https://steamcommunity.com/sharedfiles/filedetails/?id=3236710433)**
 <br>
 📊 **Author Stats:**
 <br>

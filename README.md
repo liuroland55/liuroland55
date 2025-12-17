@@ -111,7 +111,7 @@
 
 <div align="center">
 
-### 🎯 Crosshair Overlay
+### 🎯 Crosshair 
 **Windows Desktop Overlay Application**
 <br>
 A sophisticated crosshair overlay tool for gaming and precision applications
@@ -129,10 +129,18 @@ A sophisticated crosshair overlay tool for gaming and precision applications
   - 🖥️ Full-screen transparent overlay display
   - ⚡ Dual-mode operation (GUI editor and lightweight overlay)
   - 🔥 Hotkey support for quick toggle operations
-  
-</details>
 
-</div>
+ ###**Video Text Extractor** 
+ is an intelligent Edge browser extension specifically designed to extract text content from paused video frames, with special optimization for maintaining the recognition of mathematical formulas, code formatting, and special symbols.
+</details>
+  AI/ML Technology Stack
+  Manifest V3: Modern Chrome Extension API with enhanced security for AI services
+  Service Worker: Efficient background processing for ML model inference
+  Canvas API + WebGL: Hardware-accelerated image preprocessing for AI models
+  Web Workers: Parallel processing for AI computations
+  TensorFlow.js Integration: Client-side machine learning capabilities
+  Web Storage: Intelligent caching of AI model outputs and learned preferences
+  </div>
 
 ---
 

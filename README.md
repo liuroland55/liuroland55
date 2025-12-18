@@ -194,7 +194,7 @@ Why not write a script for everything repeated and cost me more than 3 seconds?
 
 **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaborations.**
 
-![Visitor Count](https://profile-counter.glitch.me/RolandLiu/count.svg)
+![Visitor Count] 14,025 [Updated: December 2025*]
 
 *Last updated: December 2025*
 

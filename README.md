@@ -7,17 +7,17 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-🔭 Currently exploring the frontiers of artificial intelligence and machine learning
+ Currently exploring the frontiers of artificial intelligence and machine learning
 
-🌱 Passionate about developing intelligent solutions that make a difference in real-world applications
+ Passionate about developing intelligent solutions that make a difference in real-world applications
 
-💡 Open to collaboration on innovative ML projects, research, and cutting-edge AI development
+Open to collaboration on innovative ML projects, research, and cutting-edge AI development
 
-🎯 Focus areas: Computer Vision, Natural Language Processing, and Deep Learning
+Focus areas: Computer Vision, Natural Language Processing, and Deep Learning
 
-📧 **How to reach me:** You can email me at liuroland55@gmail.com
+**How to reach me:** You can email me at liuroland55@gmail.com
 
 ---
 
@@ -107,11 +107,11 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🎯 Crosshair 
+### Crosshair 
 **Windows Desktop Overlay Application**
 <br>
 A sophisticated crosshair overlay tool for gaming and precision applications
@@ -123,12 +123,12 @@ A sophisticated crosshair overlay tool for gaming and precision applications
 <details>
   <summary>📖 Project Details</summary>
   
-  - 🎨 Visual crosshair editor with 20+ customizable parameters
-  - 🌈 Multiple style support (solid, dashed, dotted lines)
-  - 📥 Configuration management with import/export capabilities
-  - 🖥️ Full-screen transparent overlay display
-  - ⚡ Dual-mode operation (GUI editor and lightweight overlay)
-  - 🔥 Hotkey support for quick toggle operations
+  - Visual crosshair editor with 20+ customizable parameters
+  - Multiple style support (solid, dashed, dotted lines)
+  - Configuration management with import/export capabilities
+  - Full-screen transparent overlay display
+  - Dual-mode operation (GUI editor and lightweight overlay)
+  - Hotkey support for quick toggle operations
 </details>
 
  ###**Video Text Extractor** 
@@ -145,15 +145,15 @@ A sophisticated crosshair overlay tool for gaming and precision applications
 
 ---
 
-## 🎮 Steam Mod Development
+##  Steam Mod Development
 
 <div align="center">
 
-### 🌟 Featured Mods
+###  Featured Mods
 
 **[Barotrauma Talentenhancement plus](https://steamcommunity.com/sharedfiles/filedetails/?id=3230884359)**
 <br>
-📊 **Author Stats:**
+ **Author Stats:**
 <br>
 👥 7,870 Unique Visitors • 📈 8,839 Current Subscribers • ⭐ 396 Current Favorites
 
@@ -161,7 +161,7 @@ A sophisticated crosshair overlay tool for gaming and precision applications
 
 **[[Barotrauma TE+(Rebalanced)](https://steamcommunity.com/sharedfiles/filedetails/?id=3236710433)**
 <br>
-📊 **Author Stats:**
+ **Author Stats:**
 <br>
 👥 1,481 Unique Visitors • 📈 1,329 Current Subscribers • ⭐ 33 Current Favorites
 
@@ -169,7 +169,7 @@ A sophisticated crosshair overlay tool for gaming and precision applications
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -180,7 +180,7 @@ A sophisticated crosshair overlay tool for gaming and precision applications
 
 ---
 
-## 🎵 Fun Fact
+##  Fun Fact
 
 <div align="center">
 I like coding small parts to improve my life, like message forward bot that let my computer and phone share the same message box.

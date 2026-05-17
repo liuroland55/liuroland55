@@ -21,11 +21,11 @@ Focus areas: Computer Vision, Natural Language Processing, and Deep Learning
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   
-### 📊 Data Science & Machine Learning
+###  Data Science & Machine Learning
 <table>
   <tr>
     <td align="center" width="96">
@@ -51,7 +51,7 @@ Focus areas: Computer Vision, Natural Language Processing, and Deep Learning
   </tr>
 </table>
 
-### 💻 Programming & Development
+###  Programming & Development
 <table>
   <tr>
     <td align="center" width="96">
@@ -77,7 +77,7 @@ Focus areas: Computer Vision, Natural Language Processing, and Deep Learning
   </tr>
 </table>
 
-### 🗄️ Database & Tools
+###  Database & Tools
 <table>
   <tr>
     <td align="center" width="96">

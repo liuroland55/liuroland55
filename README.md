@@ -24,7 +24,7 @@ A Windows overlay tool, built the way most of my personal projects start: someth
 
 ## Working with
 
-`Python` · `TypeScript / JavaScript` · `SQL` · `PyTorch` · `TensorFlow` · `FastAPI` · `React` · `LangGraph` · `Docker` · `Linux`
+`Python` · `TypeScript / JavaScript` · `SQL` · `PyTorch` · `TensorFlow` · `FastAPI` · `React` · `LangGraph` · `Docker` · `Linux` and so on
 
 ---
 
@@ -36,10 +36,13 @@ A Windows overlay tool, built the way most of my personal projects start: someth
 
 *If something here is broken, undocumented, or held together with more hope than architecture — that's probably accurate, and I'd rather know about it.*
 
+
+Concerned with the tension between inner life and the social world: recognition (Anerkennung), moral seriousness, and the solitude that principled commitment exacts. Moving between German Idealism, phenomenology , and Russian literature — inclined to push conceptual questions toward the existential-ontological rather than the merely epistemological.
+"The infinite distances, the countless people — all of it has to do with me." (Lu Xun)
+
+Naturalist poet. Scene before argument; theoretical debts dissolved into narrative.
+Writing in Chinese and English. Reading primary texts in German, Russian and English.
+
 **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaborations.**
-
-![Visitor Count] 14,025 [Updated: December 2025*]
-
-*Last updated: December 2025*
 
 </div>
